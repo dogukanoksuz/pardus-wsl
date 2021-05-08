@@ -19,6 +19,9 @@ For example 'Program Files' can not be used.
 Exe filename is using to the instance name to register.
 If you rename it you can register with a different name and have multiple installs.
 
+#### 4. Upgrade it to WSL2
+You can upgrade it with wsl --set-version Pardus 2 command.
+
 ## 📝How-to-Use(for Installed Instance)
 #### exe Usage
 ```dos
