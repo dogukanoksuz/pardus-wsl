@@ -8,11 +8,11 @@ based on [DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher/)
 * Update for Windows Subsystem for Linux 2 is required.
 
 ## 💾Install
-### 📁zip
-#### 1. [Download](https://github.com/dogukanoksuz/PardusWSL/releases/latest) installer zip
+### 📁files
+#### 1. [Download](https://github.com/dogukanoksuz/PardusWSL/releases/latest) installer files
 
-#### 2. Extract all files in zip file to same directory
-Please extract to a folder that has full access permission.
+#### 2. Put Pardus.exe and install.tar.gz in same folder.
+Please select a folder that has full access permission.
 For example 'Program Files' can not be used.
 
 #### 3. Run Pardus.exe to Extract rootfs and Register to WSL
@@ -57,8 +57,3 @@ Usage :
     help
       - Print this usage message.
 ```
-
-## ⬆️Update
-### 📁zip
-#### 1. [Download](https://github.com/dogukanoksuz/PardusWSL/releases/latest) installer zip
-#### 2. Extract .exe and rootfs.tar.gz from .zip and overwrites existing ones.
