@@ -62,7 +62,3 @@ Usage :
 ### 📁zip
 #### 1. [Download](https://github.com/dogukanoksuz/PardusWSL/releases/latest) installer zip
 #### 2. Extract .exe and rootfs.tar.gz from .zip and overwrites existing ones.
-
-### 📦appx
-#### 1. [Download](https://github.com/dogukanoksuz/PardusWSL/releases/latest) installer .appx
-#### 2.Overwrite install .appx
