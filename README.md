@@ -1,4 +1,7 @@
 # PardusWSL
+
+https://dogukan.dev/pardus-wsl-kurulumu.html
+
 Pardus on WSL (Windows 10 FCU or later)
 based on [DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher/)
 
