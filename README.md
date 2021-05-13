@@ -74,3 +74,13 @@ LC_CTYPE="en_US.UTF-8"
 LC_ALL="en_US.UTF-8"
 LANG="en_US.UTF-8"
 ```
+
+and use this command:
+```
+sudo dpkg-reconfigure locales
+```
+
+then restart WSL with:
+```
+wsl.exe --shutdown
+```
