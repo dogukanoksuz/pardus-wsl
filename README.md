@@ -63,3 +63,14 @@ Usage :
     help
       - Print this usage message.
 ```
+
+## Errors
+### Fixing locale error
+
+Open /etc/default/locale with sudo
+Change contents with this lines:
+```
+LC_CTYPE="en_US.UTF-8"
+LC_ALL="en_US.UTF-8"
+LANG="en_US.UTF-8"
+```
