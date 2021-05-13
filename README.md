@@ -84,3 +84,9 @@ then restart WSL with:
 ```
 wsl.exe --shutdown
 ```
+
+## Activating systemd daemon
+DamionGans created a WSL2 systemd daemon activator. Use on clean installs, i didn't tried on used systems.
+https://github.com/DamionGans/ubuntu-wsl2-systemd-script
+
+Just clone the folder and run the script as sudo with --force argument.
